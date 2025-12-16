@@ -1,8 +1,9 @@
+# Week 1
 I have covered Getting Started in another module. 
 
 I have covered Computer Requirements in another module.
 
-So for this week, just some (light!) reading!
+So for this week, just some (light!) reading.
 
 1. You need to read some theory to get started, specifically [Physical Network Theory (PNT)](https://jor-donegal.github.io/pnt26/). 
 
