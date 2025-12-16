@@ -1,5 +1,5 @@
 # Week 1
-I have covered Getting Started in another module. 
+I have covered [Getting Started](https://jor-donegal.github.io/GettingStarted26) in another module. 
 
 I have covered Computer Requirements in another module.
 
