@@ -3,7 +3,7 @@ I have covered [Getting Started](https://jor-donegal.github.io/GettingStarted26)
 
 So for this week, just some (light!) reading.
 
-1. You need to read some theory to get started, specifically [Physical Network Theory (PNT)](https://jor-donegal.github.io/pnt26/). 
+1. You need to read some theory to get started, specifically [Physical Network Theory](https://jor-donegal.github.io/pnt26/). 
 
 2. You must understand the generic concept of [Layered Models](https://jor-donegal.github.io/LayeredModels26/).
 
