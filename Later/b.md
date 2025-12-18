@@ -1,5 +1,5 @@
 # Week 2
-Before you begin this week, make sure you have already completed my exercises in VMWare Workstation, which I cover in a different module. 
+Before you begin this week, make sure you have already completed my exercises in [VMWare Workstation](https://jor-donegal.github.io/VMWareWorkstation26), which I cover in a different module. 
 - If you are working on a laptop, you should have already installed this. 
 - If you are working in University laboratories, this is already installed.
 
