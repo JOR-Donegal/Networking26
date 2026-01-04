@@ -1,7 +1,7 @@
 # About the author
 
 <figure>
-<img src = "https://jor-donegal.github.io/PGDip-HCT/images/jor-edu1.jpg" width="200" height="200">
+<img src = "https://jor-donegal.github.io/Networking/images/jor-edu1.jpg" width="200" height="200">
 <figcaption></figcaption>
 </figure>
 
