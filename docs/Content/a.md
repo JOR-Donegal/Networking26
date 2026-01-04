@@ -11,10 +11,3 @@ So for this week, just some (light!) reading.
 
 3. Read a little about [Legacy Technology](https://jor-donegal.github.io/LegacyCommunications/), we need to know the terminology.
 
-### Reference Material
-
-If you are new to networking, I recommend 
-
-_Computer Networks, 6th edition, Published by Pearson (July 14, 2021)_
-
-although earlier versions of the book are cheaper and almost perfect for understanding the underlying principles. 

@@ -24,6 +24,15 @@ In these documents, there are key terms. These will be _italicized_. You may nee
 
 Commands are generally shown in __bold__.
 
+## Reference Material
+
+If you are new to networking, I recommend 
+
+_Computer Networks, 6th edition, Published by Pearson (July 14, 2021)_
+
+although earlier versions of the book are cheaper and almost perfect for understanding the underlying principles. 
+
+
 ## Copyright
 
 The content of these notes are (c) John ORaw 2026.
