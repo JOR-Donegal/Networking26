@@ -1,7 +1,7 @@
 site_name: Networking
 site_url: https://jor-donegal.github.io/Networking26/
 theme:
-  logo: images/jor-edu.jpg
+  logo: images/Network.jpg
   name: readthedocs
   palette:
     scheme: default
