@@ -6,7 +6,7 @@ Welcome to this module, intended to cover Networking at L9, 10 credit equivalent
 
 I reserve week 1 for introductions and getting started.
 
-The syllabus includes the following main content 
+The syllabus includes the following main content in weeks 2-11.
 
 - Physical Network design
 - LAN Network design
