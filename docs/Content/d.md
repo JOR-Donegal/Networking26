@@ -16,4 +16,8 @@ These are items you need to know, but you do not need for the assignments.
 3. We have some use-cases for [link aggregation](https://johnoraw.gitbook.io/ethernet-theory/link-aggregation), we will look at the basics here.
 
 ## Practical Work
-1. 
+This week,  carry out these exercises. 
+
+1. Go through my exercises on [VLANs](https://johnoraw.gitbook.io/ethernet-practice/vlans-1).
+2. I show some simple technques for [link aggregation.](https://johnoraw.gitbook.io/ethernet-practice/link-aggregation-1) In practice, almost every host server uses something similar for redundant connectivity.
+3. Finally, I demonstrate [Network Discovery](https://johnoraw.gitbook.io/ethernet-practice/network-discovery-1). 

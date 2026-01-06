@@ -12,7 +12,8 @@ We will also do practical exercises to better understand how Ethernet works.
 
 ## Practical Work
 
-This week, 
+This week,  carry out these exercises. 
 
-1. Its time to start building [switched networks](https://johnoraw.gitbook.io/ethernet-practice/switched-networks). Carry out these exercises. 
-2. 
+1. Its time to start building [switched networks](https://johnoraw.gitbook.io/ethernet-practice/switched-networks). 
+2. You must know how to correctly configure [loop avoidance](https://johnoraw.gitbook.io/ethernet-practice/loop-avoidance).
+
