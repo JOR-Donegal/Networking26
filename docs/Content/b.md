@@ -5,7 +5,7 @@ After that, We need to work through some of the theory relating to physical netw
 
 ## Study
 1. Read through these notes on [Serial Communications](https://jor-donegal.github.io/SerialCommunications26/)
-2. I cover some of the basics of [wired networking]() next, this is the main content we need for Layer 1.
+2. I cover some of the basics of [Wired Networking](https://jor-donegal.github.io/WiredL1/) next, this is the main content we need for Layer 1.
 
 ## Practical Work
 On campus or for e-delivery classes, I demonstrate how to access GNS3.
@@ -20,6 +20,6 @@ This week,
 ## Later Study
 If you run short on time now...these are items you need to know, but you do not need for the assignments.
 
-1. We touch on [wireless networking](), but very lightly.
-2. To finish with wireless networking, I also explain the [ISM bands]().
+1. We touch on [Wireless Networking](https://johnoraw.gitbook.io/pnt/wireless-layer-1), but very lightly.
+2. To finish with wireless networking, I also explain the [ISM bands](https://johnoraw.gitbook.io/pnt/ism-bands).
 
