@@ -7,7 +7,7 @@ We will also do practical exercises to better understand how Ethernet works.
 
 ## Study
 
-1. Begin by reading my [introduction to Etehrnet](https://johnoraw.gitbook.io/ethernet-theory/the-basics-of-ethernet). Unless you understand where it came from, the terminology and operation of modern Ethernet will never make sense.
+1. Begin by reading my [introduction to Ethernet](https://johnoraw.gitbook.io/ethernet-theory/the-basics-of-ethernet). Unless you understand where it came from, the terminology and operation of modern Ethernet will never make sense.
 2. As the technology developed, we utilized four families of [Ethernet devices](https://johnoraw.gitbook.io/ethernet-theory/ethernet-devices). You need to understand what  they were and their operation principles.  
 3. One of the problems we may have on an Ethernet is a network loop. We need to understand how to implement [loop avoidance](https://johnoraw.gitbook.io/ethernet-theory/loop-avoidance-1). 
 

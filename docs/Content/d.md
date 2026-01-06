@@ -1,11 +1,11 @@
 # Week 4
-This week, we will continue with Ethernet, finishing the topics I wanted to cover.
-So afr, we have seen how to provide physical ports, where we need network switches, how many ports, what speed.
+This week, we will finish with Ethernet for now.
+So far, we have seen how to provide physical ports, where we need network switches, how many ports, what speed.
 This week, we are going to look at logical network design, breaking up a flat Ethernet into Virtual LANs (VLANS) based on requirements to access applications, at specific security levels.
-We have some additonal, shorted topics to read about.
+
+If I was building a network right now, I would also built Network Access Control (NAC) into the design. Do a little background reading on the topic, I'm not going to cover it for now.
 
 ## Study
-
 1. First understand [VLANs.](https://johnoraw.gitbook.io/ethernet-theory/vlans)
 2. There are certain [services](https://johnoraw.gitbook.io/ethernet-theory/other-services) we need on every LAN, I will discuss them here.
 
