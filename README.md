@@ -10,3 +10,7 @@ Layered Models, OK
 Legacy Technology, OK
 ### Week 2 
 Most of these notes are from 24/25 and need to be ported and updated.
+### Week 3
+Most of these notes are from 24/25 and need to be ported and updated.
+### Week 4 
+Most of these notes are from 24/25 and need to be ported and updated.

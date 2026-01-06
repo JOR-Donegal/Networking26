@@ -5,11 +5,12 @@ This week, we are going to look at logical network design, breaking up a flat Et
 We have some additonal, shorted topics to read about.
 
 ## Study
+
 1. First understand [VLANs.](https://johnoraw.gitbook.io/ethernet-theory/vlans)
 2. There are certain [services](https://johnoraw.gitbook.io/ethernet-theory/other-services) we need on every LAN, I will discuss them here.
 
-## Later Study, if you run short on time now
-These are items you need to know, but you do not need for the assignments.
+## Later Study
+If you run short on time now...these are items you need to know, but you do not need for the assignments.
 
 1. During setup and falut-finding, it is really useful to know some techniques for [network discovery](). We will examine this here.
 2. In a data center, there are few use cases for [WiFi](https://johnoraw.gitbook.io/ethernet-theory/wi-fi), but we will cover some of the basics here.
