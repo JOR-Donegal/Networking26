@@ -5,7 +5,7 @@ There are particular approaches that an experienced network engineer will take w
 2.	When I make a mess of things, recover as quickly as possible
 3.	Be as accurate as possible; there is no room for error.
 
-One of the ways I have achieved this, is to not write configurations at the command line. When I'm working, I'm going to open notepad++ and I'm going to write my configuration into the editor+ with a minimum of comments. When I think the configuration is correct, I'll paste it into the network appliance and test it. For example, a good configuration for a normal client's access port might be
+One of the ways I have achieved this, is to not write configurations at the command line. When I'm working, I'm going to open notepad++ and I'm going to write my configuration into the editor with a minimum of comments. When I think the configuration is correct, I'll paste it into the network appliance and test it. For example, a good configuration for a normal client's access port might be
 
 ```
 # Configure technical clients

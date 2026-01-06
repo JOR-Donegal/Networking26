@@ -9,16 +9,16 @@ If I was building a network right now, I would also built Network Access Control
 1. First understand [VLANs.](https://johnoraw.gitbook.io/ethernet-theory/vlans)
 2. There are certain [services](https://johnoraw.gitbook.io/ethernet-theory/other-services) we need on every LAN, I will discuss them here.
 
-## Later Study
-If you run short on time now...these are items you need to know, but you do not need for the assignments.
-
-1. During setup and falut-finding, it is really useful to know some techniques for [network discovery](). We will examine this here.
-2. In a data center, there are few use cases for [WiFi](https://johnoraw.gitbook.io/ethernet-theory/wi-fi), but we will cover some of the basics here.
-3. We have some use-cases for [link aggregation](https://johnoraw.gitbook.io/ethernet-theory/link-aggregation), we will look at the basics here.
-
 ## Practical Work
 This week,  carry out these exercises. 
 
 1. Go through my exercises on [VLANs](https://johnoraw.gitbook.io/ethernet-practice/vlans-1).
 2. I show some simple technques for [link aggregation.](https://johnoraw.gitbook.io/ethernet-practice/link-aggregation-1) In practice, almost every host server uses something similar for redundant connectivity.
 3. Finally, I demonstrate [Network Discovery](https://johnoraw.gitbook.io/ethernet-practice/network-discovery-1). 
+
+## Later Study
+If you run short on time now...these are items you need to know, but you do not need for the assignments.
+
+1. During setup and falut-finding, it is really useful to know some techniques for [network discovery](). We will examine this here.
+2. In a data center, there are few use cases for [WiFi](https://johnoraw.gitbook.io/ethernet-theory/wi-fi), but we will cover some of the basics here.
+3. We have some use-cases for [link aggregation](https://johnoraw.gitbook.io/ethernet-theory/link-aggregation), we will look at the basics here.
