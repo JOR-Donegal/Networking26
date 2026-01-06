@@ -10,5 +10,5 @@ This week, we're going to address layer 3 and routing. For the moment, I'm going
 This week,  carry out these exercises. 
 
 1. To keep with the core requirements of the module, we are going to play with an OS running in Docker and do some [simple scripting](https://johnoraw.gitbook.io/routing-practice/scripting-1) on network hardware.
-2. I need you to know hopw to do [simple routing on a LAN](https://johnoraw.gitbook.io/routing-practice/lan-routing) with L2/L3 switches.
-3. There is a variation on LAN design, on site which have a perimeter router, we call this [router-on-a-stick](https://johnoraw.gitbook.io/routing-practice/router-on-a-stick).
+2. I need you to know how to do [simple routing on a LAN](https://johnoraw.gitbook.io/routing-practice/lan-routing) with L2/L3 switches.
+3. There is a variation on LAN design, on sites which have a perimeter router, we call this [router-on-a-stick](https://johnoraw.gitbook.io/routing-practice/router-on-a-stick).

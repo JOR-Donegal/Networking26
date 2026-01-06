@@ -14,8 +14,8 @@ I will not further describe that process here.
 This week, 
 
 1. I need you to get familiar with using the [Command Line (CLI)](https://johnoraw.gitbook.io/lnp/3.cli) on network devices.
-2. A managed network device is an appliance computer, with a CPU, DRAM, and a boot device (flash). Become familair with the [device and boot process.](https://johnoraw.gitbook.io/lnp/4.boot).
-3. In a real network, we need a scalable way to allow management access to equipment. Do the exercises on Authentication, Authorization and Accounting (AAA)(https://johnoraw.gitbook.io/lnp/5.aaa)  
+2. A managed network device is an appliance computer, with a CPU, DRAM, and a boot device (flash). You need to understand the [device and boot process.](https://johnoraw.gitbook.io/lnp/4.boot).
+3. In a real network, we need a scalable way to allow management access to equipment. Do the exercises on Authentication, Authorization and Accounting [AAA](https://johnoraw.gitbook.io/lnp/5.aaa)  
 
 ## Later Study
 If you run short on time now...these are items you need to know, but you do not need for the assignments.
