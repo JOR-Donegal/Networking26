@@ -1,7 +1,7 @@
 # Week 3
-Over the next few weeks, we will study the design of _Local Area Networks (LAN)._ 
+Over the next few weeks, we will study the design of _Local Area Networks (LANs)._ 
 Historically, we had many possibe protocols at Layer 2, modern LANs are almost entirley based on Ethernet. 
-At Layer 3/4, we alo had many possible solutions, which have rationalised down to TCP/IP. 
+At Layer 3/4, we also had many possible solutions, which have rationalised down to TCP/IP. 
 We will begin this week by diving into Ethernet.
 We will also do practical exercises to better understand how Ethernet works.
 
