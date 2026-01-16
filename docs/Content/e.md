@@ -4,7 +4,6 @@ This week, we're going to address layer 3 and routing. For the moment, I'm going
 ## Study
 1. First, I introduce [layer 3](https://johnoraw.gitbook.io/routing-theory/layer-3).
 2. The next topic is to understand [subnetting with IPv4](https://johnoraw.gitbook.io/routing-theory/ipv4-addressing). I will do a live tutorial on this.
-3. I will then explain static routing, which is sufficient to route on a small LAN.
 
 ## Practical Work
 This week,  carry out these exercises. 

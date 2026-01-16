@@ -14,3 +14,6 @@ Most of these notes are from 24/25 and need to be ported and updated.
 Most of these notes are from 24/25 and need to be ported and updated.
 ### Week 4 
 Most of these notes are from 24/25 and need to be ported and updated.
+### Week 5
+Notes are from 24/25 and need to be ported and updated.
+### Week 6
