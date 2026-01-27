@@ -19,6 +19,6 @@ This week,  carry out these exercises.
 ## Later Study
 If you run short on time now...these are items you need to know, but you do not need for the assignments.
 
-1. During setup and fault-finding, it is really useful to know some techniques for [network discovery](). We will examine this here.
+1. During setup and fault-finding, it is really useful to know some techniques for [network discovery](https://johnoraw-education.gitbook.io/networking/ethernetpractice/network-discovery). We will examine this here.
 2. In a data center, there are few use-cases for [WiFi](https://johnoraw.gitbook.io/ethernet-theory/wi-fi), but we will cover some of the basics here.
 3. We have some use-cases for [link aggregation](https://johnoraw.gitbook.io/ethernet-theory/link-aggregation), we will look at the basics here.
