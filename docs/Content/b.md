@@ -1,11 +1,15 @@
 # Week 2
-This week, I want to finish off the light reading, with some detail on serial communications specific to the control of power and cooling in data centers.
+Last week's content was all good background.
+After that, We need to work through some of the theory relating to physical networking. 
+You need to cover this in detail, the fist assignments are based on this content.
+In my notes on Layered Models, I referred to this as _Layer 1_.
 
-After that, We need to work through some of the theory relating to physical networking. In my notes on Layered Models, I referred to this as _Layer 1_.
+In practical work, you will finally start configring network equipment.
+There is a particular approach you must take, see my notes on Writing Style.
+If you take this approach, LAN assignments will be easy. If not...
 
 ## Study
-1. Read through these notes on [Serial Communications](https://jor-donegal.github.io/SerialCommunications26/)
-2. I cover some of the basics of [Wired Networking](https://jor-donegal.github.io/WiredL1/) next, this is the main content we need for Layer 1.
+1. I cover some of the basics of [Wired Networking](https://jor-donegal.github.io/WiredL1/) next, this is the main content we need for Layer 1.
 
 ## Practical Work
 On campus or for e-delivery classes, I demonstrate how to access GNS3.
