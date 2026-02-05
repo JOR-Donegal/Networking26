@@ -11,3 +11,8 @@ This week,  carry out these exercises.
 1. To keep with the core requirements of the module, we are going to play with an OS running in Docker and do some [simple scripting](https://johnoraw.gitbook.io/routing-practice/scripting-1) on network hardware.
 2. I need you to know how to do [simple routing on a LAN](https://johnoraw.gitbook.io/routing-practice/lan-routing) with L2/L3 switches.
 3. There is a variation on LAN design, on sites which have a perimeter router, we call this [router-on-a-stick](https://johnoraw.gitbook.io/routing-practice/router-on-a-stick).
+
+## Later Study
+If you run short on time now...these are items you need to know, but you do not need for the assignments.
+
+At the moment, I'm not doing exercises on [IPv6 theory](https://johnoraw.gitbook.io/routing-theory/ipv6-addressing) in this module, but you need to understand what it is!
