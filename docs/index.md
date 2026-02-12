@@ -12,7 +12,8 @@ The syllabus includes the following main content in weeks 2-11.
 - LAN Network design
 - WAN Network design
 - Zones and perimeters
-- Case study
+
+The assessment material is based around doing all this work as a case study.
 
 I reserve week 12/13 for clean up at the end...or run over time if we need it.
 
