@@ -6,3 +6,6 @@ The simplest dynamic routing protocol we will consider is [RIP](https://johnoraw
 
 ## Practice
 In our exercises this week, we will utilize with both [RIP](https://johnoraw.gitbook.io/routing-practice/rip) and [OSPF](https://johnoraw.gitbook.io/routing-practice/ospf-1). Please make sure you understand where it is appropriate to use each. The assignments in the second half of this module normally require a competence with OSPF.
+
+## Later Study
+There is only so much I can get you to do! The [exercises on BGP](https://johnoraw.gitbook.io/routing-practice/bgp-1) are optional, do them if you have time, a particular interest, or after the module finishes.
