@@ -1,5 +1,5 @@
 # Week 9
-At this stage, you understand the switching and routing practise necessary to build many types of modern network. In this next section of the course, we need to look at how to create zones in our network and why and how to set up perimeters. This section of the course will emphasise the theory and practise of network security.
+At this stage, you understand the switching and routing practice necessary to build many types of modern network. In this next section of the course, we need to look at how to create zones in our network and why and how to set up perimeters. This section of the course will emphasis the theory and practice of network security.
 
 At the risk of being cynical, many of the components of conventional network security just don't work. More than anything else, we need smart people who deeply understands the technical nature of our infrastructure and its vulnerabilities. Expect the next block in this course to be controversial!
 

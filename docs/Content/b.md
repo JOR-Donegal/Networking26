@@ -4,7 +4,7 @@ After that, We need to work through some of the theory relating to physical netw
 You need to cover this in detail, the fist assignments are based on this content.
 In my notes on Layered Models, I referred to this as _Layer 1_.
 
-In practical work, you will finally start configring network equipment.
+In practical work, you will finally start configuring network equipment.
 There is a particular approach you must take, see my notes on Writing Style.
 If you take this approach, LAN assignments will be easy. If not...
 

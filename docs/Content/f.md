@@ -1,7 +1,7 @@
 # Week 6
 To understand TCP/IP fully we need to discuss Layer 4 and we will do so this week. Everyone's Internet connection uses tricks to get around the exhaustion of IPv4 addresses, this is the right place to consider one of the mitigations for this, NAT and PAT.
 
-I also want to introduce dyanamic routing and a simple routing protocol RIP.
+I also want to introduce dynamic routing and a simple routing protocol RIP.
 
 This week's notes and exercises finish the first part of the course. You should know how to build a small LAN and understand some of the practices for doing so.
 
