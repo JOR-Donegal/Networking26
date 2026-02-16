@@ -7,4 +7,4 @@ Once you finish this work, you can attempt the penultimate assignment for this m
 Go through my notes on [firewalls](https://johnoraw.gitbook.io/z-and-p-theory/firewalls) and the many variations and applications this week.
 
 ## Practice
-In our practical work, I want you to go through using one brand of commercial firewall, those produced by [Fortinet](https://johnoraw.gitbook.io/z-and-p-practice/). We will also talk about inter-connectivity between networks using VPNs. As part of this work, I will get you to access the teaching data centre via VPN.
+In our practical work, I want you to go through using one brand of commercial firewall, those produced by [Fortinet](https://johnoraw.gitbook.io/z-and-p-practice/). We will also talk about inter-connectivity between networks using VPNs. As part of this work, I will get you to access the teaching data centre via VPN. I will also introduce the concept of SD-WAN.
