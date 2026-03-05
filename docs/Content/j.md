@@ -8,3 +8,5 @@ Go through my notes on [firewalls](https://johnoraw.gitbook.io/z-and-p-theory/fi
 
 ## Practice
 In our practical work, I want you to go through using one brand of commercial firewall, those produced by [Fortinet](https://johnoraw.gitbook.io/z-and-p-practice/). We will also talk about inter-connectivity between networks using VPNs. As part of this work, I will get you to access the teaching data centre via VPN. I will also introduce the concept of SD-WAN.
+
+In the Azure Labs VM, I will demo creating and configuring a Fortigate in Week 10.
